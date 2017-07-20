@@ -1,0 +1,29 @@
+Links:
+
+GEstão de Viagens:
+https://www.argoit.com.br/movere/stone
+
+QMágico - UIniversidade Arpex:
+https://dlp.qmagico.com.br
+
+Amigo - 
+
+
+Slack:
+https://buy4.slack.com/
+
+Cofluence:
+https://stonepayments.atlassian.net/wiki/display/glias
+
+GITHub Stone:
+https://github.com/stone-pagamentos/
+
+BitBucket:
+https://bitbucket.org/stonepayments/dnauth
+
+
+Estudos:
+https://stonepayments.atlassian.net/wiki/display/GLIAS/2.3.1+-+Guia+de+Estudos
+
+POCS:
+https://stonepayments.atlassian.net/wiki/display/GLIAS/2.3.5+-+POCs+Iniciais
